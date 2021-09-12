@@ -4,5 +4,14 @@
   "main": "dist/index.js",
   "devDependencies": {
     "typescript": "^4.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "tsc"
+  },
+  "author": "kabu <fujiyama@kakumei.jp>",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/hagishi"
   }
 }
