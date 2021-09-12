@@ -1,0 +1,8 @@
+{
+  "name": "@hagishi/gokuu",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
