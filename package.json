@@ -1,7 +1,10 @@
 {
   "name": "@hagishi/gokuu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "typescript": "^4.4.3"
   },
